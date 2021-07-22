@@ -111,7 +111,7 @@ nav ul li a {
 /* ^ header content end */
 /* ^ team section start*/
 #team {
-  background: url("/dist/images/bg-curve-desktop.jpg") no-repeat;
+  background: url("../images/bg-curve-desktop.jpg") no-repeat;
   background-color: #f9f8fe;
   padding-bottom: 5rem;
   background-size: 100%;
@@ -308,7 +308,7 @@ footer .social i {
     width: 100%;
   }
   #team {
-    background: url("/dist/images/bg-curve-mobile.jpg") no-repeat;
+    background: url("../images/bg-curve-mobile.jpg") no-repeat;
     background-size: 100%;
     background-color: #f9f8fe;
     /* padding-bottom: 0rem;
